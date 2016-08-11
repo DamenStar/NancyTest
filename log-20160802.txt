@@ -1,0 +1,8 @@
+﻿2016-08-02 16:11:53.306 -06:00 [Information] Request starting HTTP/1.1 GET http://localhost:5000/  
+2016-08-02 16:11:53.742 -06:00 [Information] Request finished in 480.4244ms 200 application/json; charset=utf-8
+2016-08-02 16:16:33.056 -06:00 [Information] Request starting HTTP/1.1 GET http://localhost:5000/  
+2016-08-02 16:16:33.500 -06:00 [Information] Request finished in 469.6212ms 200 application/json; charset=utf-8
+2016-08-02 16:21:24.218 -06:00 [Information] Request starting HTTP/1.1 GET http://localhost:5000/  
+2016-08-02 16:21:24.681 -06:00 [Information] Request finished in 511.1324ms 200 application/json; charset=utf-8
+2016-08-02 16:24:40.375 -06:00 [Information] Request starting HTTP/1.1 GET http://localhost:5000/  
+2016-08-02 16:24:40.849 -06:00 [Information] Request finished in 516.6876ms 200 application/json; charset=utf-8
